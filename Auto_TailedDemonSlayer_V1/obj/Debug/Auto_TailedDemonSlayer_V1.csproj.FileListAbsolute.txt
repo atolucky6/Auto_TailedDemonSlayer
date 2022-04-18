@@ -1,0 +1,16 @@
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\Auto_TailedDemonSlayer_V1.exe.config
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\Auto_TailedDemonSlayer_V1.exe
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\Auto_TailedDemonSlayer_V1.pdb
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\KAutoHelper.dll
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\Emgu.CV.World.dll
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\KAutoHelper.pdb
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\KAutoHelper.dll.config
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\bin\Debug\Emgu.CV.World.xml
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.csproj.AssemblyReference.cache
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.Form1.resources
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.Properties.Resources.resources
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.csproj.GenerateResource.cache
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.csproj.CoreCompileInputs.cache
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.csproj.CopyComplete
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.exe
+D:\Work\Github\Auto_TailedDemonSlayer\Auto_TailedDemonSlayer_V1\obj\Debug\Auto_TailedDemonSlayer_V1.pdb
